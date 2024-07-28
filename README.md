@@ -17,6 +17,10 @@
  under the License.
 -->
 
+># Important note:
+>This image contains only important parts to setup spark with Iceberg.
+> Check `spark/Dockerfile` for more details, uncomment important lines for your workflow.
+
 # Spark + Iceberg Quickstart Image
 
 This is a docker compose environment to quickly get up and running with a Spark environment and a local REST
